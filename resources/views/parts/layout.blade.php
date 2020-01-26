@@ -24,4 +24,6 @@
 
     <!-- End Navigation -->
 
+@yield('content')
+
 @include('parts.footer')
