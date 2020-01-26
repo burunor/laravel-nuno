@@ -17,4 +17,19 @@
     </div>
     <!-- End Landing Page Section -->
 
+    </div>
+    <!--- End Home Section -->
+
+    <!--- Start Course Section -->
+    <div id="course" class="offset">
+        <div class="col-12 narrow text-center">
+            <h1>Nuno Theme Advanced Bootstrap Course</h1>
+            <p class="lead">Learn Bootstrap by creating an advanced Bootstrap 4 Responsive Website Template from
+                scratch, with no steps skipped!</p>
+            <a href="#" class="btn btn-secondary btn-md">Bootstrap Course</a>
+        </div>
+
+    </div>
+    <!--- End Course Section -->
+
 @endsection()
